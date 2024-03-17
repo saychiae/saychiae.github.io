@@ -1,0 +1,24 @@
+body {
+    background-color: #f8fff7;
+}
+.work-in-progress {
+    margin-top: 5%;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.work-in-progress img.cute-image {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.work-in-progress p {
+    margin: 10px 0;
+    font-size: 30px; /* Larger font size */
+    color: #f6278e; /* Pink text color */
+}
